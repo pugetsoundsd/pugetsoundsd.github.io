@@ -1,17 +1,17 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Puget Sound Speech and Debate
+description: News and info for the puget sound speech and debate organization
+author: pugetsoundsd
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/pugetsoundsd
+about: Speech and Debate
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://pugetsoundsd.github.io/"
+url: "https://pugetsoundsd.github.io/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# disqus_shortname: aboutashu
+# google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
