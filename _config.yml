@@ -1,6 +1,6 @@
 title: Puget Sound Speech and Debate
 description: News and info for the puget sound speech and debate organization
-author: Puget Sound Speech and Debate
+author: Puget Sound
 logo: http://www.interlakedebate.org/files/.shark-lw-scaled.png.png
 github: https://github.com/pugetsoundsd
 about: Speech and Debate
@@ -8,7 +8,7 @@ about: Speech and Debate
 baseurl: "https://pugetsoundsd.github.io/"
 url: "https://pugetsoundsd.github.io/"
 
-allowsearch: true
+# allowsearch: true
 
 # disqus_shortname: aboutashu
 # google_analytics: UA-72862926-1
