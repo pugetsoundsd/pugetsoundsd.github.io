@@ -6,21 +6,21 @@
     "layout": "post"
   },
   {
-    "text": "Newsreel",
+    "text": "News",
     "url": "/posts/",
-    "icon": "fa-home",
+    "icon": "fa-newspaper-o",
     "layout": "post"
+  },
+  {
+    "text": "Events",
+    "url": "/events/",
+    "icon": "fa-calendar",
+    "layout": "events"
   },
   {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments",
     "layout": "post"
-  },
-  {
-    "text": "Events",
-    "url": "/events/",
-    "icon": "fa-desktop",
-    "layout": "events"
   }
 ]
