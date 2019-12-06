@@ -1,7 +1,7 @@
 ---
-layout: project
-title: Projects
-permalink: /projects/
+layout: events
+title: Events
+permalink: /events/
 ---
 
-Few of my projects.
+Home for information about different speech and debate events
