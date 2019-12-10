@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: News and Blog
 permalink: /posts/
 ---
