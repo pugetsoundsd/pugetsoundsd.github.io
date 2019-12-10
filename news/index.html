@@ -1,15 +1,7 @@
 ---
 layout: default
+title: News and Announcements
 ---
-<div class="well">
-    {% if page.subtitle %}
-    <h4 class="home-subtitle">{{ page.subtitle }}</h4>
-    {% endif %}
-    <div>
-        {{ content }}
-    </div>
-</div>
-
 <div class="well">
     <div class="list-group">
       {% for post in paginator.posts %}
