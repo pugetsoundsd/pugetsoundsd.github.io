@@ -1,43 +1,43 @@
 [
 	{
 		"name": "Policy/CX",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["debate","info"]
 	},
 	{
 		"name": "Lincoln Douglas",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["debate","info"]
 	},
 	{
 		"name": "Public Forum",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["debate","info"]
 	},
 	{
 		"name": "Congress",
-		"image": "placeholder.jpg",
+		"image": "gavel.jpg",
 		"url": "#",
 		"tags": ["debate","info"]
 	},
 	{
 		"name": "Interp",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["speech","info"]
 	},
 	{
 		"name": "Platform",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["speech","info"]
 	},
 	{
 		"name": "Unprep",
-		"image": "placeholder.jpg",
+		"image": "podium.jpg",
 		"url": "#",
 		"tags": ["speech","info"]
 	}
